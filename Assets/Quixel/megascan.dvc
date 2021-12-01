@@ -1,0 +1,5 @@
+outs:
+- md5: ed0c2bd0e1cb032d88cbb5ac00287c79.dir
+  size: 123514793
+  nfiles: 24
+  path: megascan
