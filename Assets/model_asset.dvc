@@ -1,5 +1,5 @@
 outs:
-- md5: a46a738d17e2af185bfabbb38de56b00.dir
-  size: 2537186899
-  nfiles: 864
+- md5: 1af3c67801a9b08aa228723aaf01df5a.dir
+  size: 4039180386
+  nfiles: 1205
   path: model_asset
