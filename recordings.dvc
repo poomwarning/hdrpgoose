@@ -1,0 +1,5 @@
+outs:
+- md5: 453a40fa79c618a4e39e9a8902b8513f.dir
+  size: 274517575
+  nfiles: 10
+  path: recordings
