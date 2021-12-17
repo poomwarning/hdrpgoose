@@ -70,3 +70,8 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 /recordings
+Assets/New Terrain.asset.dvc.meta
+Assets/Samples.dvc.meta
+Assets/Scenes(me)/truck.dvc.meta
+Assets/stage 2 asset/quixel scene 2 asset.dvc.meta
+Assets/stage 2 asset/scene 2 texture.dvc.meta
